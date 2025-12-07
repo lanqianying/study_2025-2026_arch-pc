@@ -54,5 +54,5 @@ format:
 ### Docx output format
   docx:
     toc: true
-    number-sections: true
+    number-sections: false
     toc-depth: 2
