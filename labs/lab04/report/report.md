@@ -9,18 +9,6 @@ author:
 title: "Отчёт по лабораторной работе №4"
 subtitle: "Создание и процесс обработки программ на языке ассемблера NASM"
 
----
-
-format:
-  pdf:
-    toc: false
-    lof: false
-    lot: false
-  docx:
-    toc: false
-number-sections: false
-
---
 
 # 1. Цель работы
 
