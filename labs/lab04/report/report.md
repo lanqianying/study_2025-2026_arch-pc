@@ -11,9 +11,16 @@ author:
 format:
   pdf:
     toc: false
+    lof: false
+    lot: false
+    number-sections: false
   docx:
     toc: false
-number-sections: false
+    lof: false
+    lot: false
+    number-sections: false
+
+titlepage: true
 ---
 
 # 1. Цель работы
